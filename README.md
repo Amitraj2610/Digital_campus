@@ -206,8 +206,8 @@ Replace the placeholder with your actual campus video:
 
 ## 🙏 Credits
 
-- Developed by: **[Your Name]** — School of Computer Science, P P Savani University
-- Guide: **[Guide Name]**, [Designation]
+- Developed by: **Rajwara Amit Davinder** — School of Computer Science, P P Savani University
+- Guide: **Khushali Damodiya**, Assistant Professor 
 - Academic Year: 2025–2026
 
 ---
