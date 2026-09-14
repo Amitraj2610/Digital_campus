@@ -1,4 +1,4 @@
-# 🎓 P P Savani University — Official Website
+# 🎓 P P Savani University — website 
 
 [![NAAC A+](https://img.shields.io/badge/NAAC-A%2B%20Accredited-8B1A1A?style=for-the-badge)](https://ppsu.ac.in)
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
