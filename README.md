@@ -12,7 +12,7 @@ A fully responsive, modern university website for **P P Savani University**, Kos
 
 ## 🌐 Live Demo
 
-👉 **[View Live Site](https://YOUR-USERNAME.github.io/ppsu-university-website/)**
+👉 **[View Live Site](https://amitraj2610.github.io/Digital_campus/)**
 
 > Replace `YOUR-USERNAME` with your actual GitHub username after deployment.
 
